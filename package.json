@@ -1,6 +1,6 @@
 {
   "name": "react-native-htmltags-bml",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Barelmusenga/react-native-htmltags-bml.git"
@@ -17,9 +17,5 @@
   ],
   "author": "Barel Musenga",
   "license": "ISC",
-  "homepage": "https://github.com/Barelmusenga/react-native-htmltags-bml#readme",
-  "dependencies": {
-    "react": "^16.13.1",
-    "react-native": "^0.63.2"
-  }
+  "homepage": "https://github.com/Barelmusenga/react-native-htmltags-bml#readme"
 }

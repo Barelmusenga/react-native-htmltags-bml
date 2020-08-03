@@ -264,7 +264,7 @@ const styles = StyleSheet.create({
     borderRadius: 0,
   },
   well: {
-    shadowColor: "#000",
+    shadowColor: Colors.black,
     shadowOffset: { width: 0, height: 2 },
     shadowRadius: 6,
     shadowOpacity: 0.26,
