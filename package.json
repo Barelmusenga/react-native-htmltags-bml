@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Barelmusenga/react-native-htmltags.git"
+    "url": "git+https://github.com/Barelmusenga/react-native-htmltags-bml.git"
   },
   "description": "This library helps developers have and use html-like elements such as H1, H2, H3 and BodyText which they can also style in their own way.",
   "main": "index.js",
@@ -17,7 +17,7 @@
   ],
   "author": "Barel Musenga",
   "license": "ISC",
-  "homepage": "https://github.com/Barelmusenga/react-native-htmltags#readme",
+  "homepage": "https://github.com/Barelmusenga/react-native-htmltags-bml#readme",
   "dependencies": {
     "react": "^16.13.1",
     "react-native": "^0.63.2"
